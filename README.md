@@ -1,6 +1,6 @@
-# Election-Audit Analysis
+# Election Audit Analysis
 
-## Overview of Election-Audit
+## Overview of Election Audit
 Election Audit analysis project is focus on using Python and Visual Studio Code to process the Colorado Board of Elections dataset and implement data audit. In the election audit, we perform data analysis and submit the election results to the election commision. Besides, we deliever additional audited information as requested: 
 
 - The voter turnout for each county
