@@ -1,7 +1,7 @@
 # Election Audit Analysis
 
 ## Overview of Election Audit
-Election Audit analysis project is focus on using Python and Visual Studio Code to process the Colorado Board of Elections dataset and implement data audit. In the election audit, we perform data analysis and submit the election results to the election commission. Besides, we deliever additional audited information as requested: 
+Election Audit project is focus on using Python and Visual Studio Code to process the Colorado Board of Elections dataset and implement data audit. In the election audit, we perform data analysis and submit the election results to the election commission. Besides, we deliever additional audited information as requested: 
 
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count 
@@ -23,7 +23,7 @@ Election Audit analysis project is focus on using Python and Visual Studio Code 
 
 ## Election-Audit Results
 ### Candidate Result
-The analysis of the election show that:
+The analysis of the election shows that:
 - There were **"369,711"** votes cast in the election.
 - The candidates were:
   - Charles Casper Stockham
@@ -36,7 +36,7 @@ The analysis of the election show that:
  - The winner of the election was:
    - Diana DeGette, who received **"73.8%"** of the vote and **"272,989"** number of votes.
 ### County Result
-The analysis of the election show that:
+The analysis of the election shows that:
 - The counties were:
   - Jefferson
   - Denver
