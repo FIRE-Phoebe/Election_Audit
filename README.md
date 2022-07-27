@@ -53,4 +53,7 @@ We have total votes 369,711 cast in this congressional election. In this electio
 ### Challenge Summary
 We use Python to generate our dataset and write codes. When we process our auditing work, we used Visual Studio Code to modify our script and run Python files in the terminal. The script in this election we audited can be used for any election because it helps us to determine the winning candidate, vote counts and percentage. For example, we use the decision statement to compare the candidates' votes and counties votes turnout, which can be applied to other elections as needed. For instance, we use loop structure with operators to extract data for all ballets, and this script can avoid duplicate counts our votes.  
 
+________________________________________________________________________________________________________________________________
 
+Project Contributor: Phoebe J. Miao
+Email: phoebem2021data@gmail.com
