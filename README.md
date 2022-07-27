@@ -55,5 +55,5 @@ We use Python to generate our dataset and write codes. When we process our audit
 
 ________________________________________________________________________________________________________________________________
 
-Project Contributor: Phoebe J. Miao
-Email: phoebem2021data@gmail.com
+- Project Contributor: Phoebe J. Miao
+- Email: phoebem2021data@gmail.com
